@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/src/main/java/com/example/ltwww_java_04092025_tuan03_tophangiabao_bai2/DAO/UserDAO.java" dialect="GenericSQL" />
+  </component>
+</project>
